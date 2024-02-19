@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saif</h1>
-<h3 align="center">Data Engineer & Python/Django Backend Developer  💻 </h3>
+<h3 align="center">Software Engineer 💻 </h3>
 
 
 
